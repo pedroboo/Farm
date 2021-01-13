@@ -1,0 +1,7 @@
+C:\Users\Pedro\Documents\ISP2020\C#\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\Pedro\Documents\ISP2020\C#\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\Pedro\Documents\ISP2020\C#\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\Pedro\Documents\ISP2020\C#\Farmacia\obj\Debug\Farmacia.csprojAssemblyReference.cache
+C:\Users\Pedro\Documents\ISP2020\C#\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\ISP2020\C#\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\Pedro\Documents\ISP2020\C#\Farmacia\obj\Debug\Farmacia.pdb
